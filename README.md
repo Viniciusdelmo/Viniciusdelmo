@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Vinícius, seja bem vindo ao meu GitHub!</h1>
+<h1 align="center">Olá 👋, seja bem vindo ao meu GitHub!</h1>
 <h3 align="center">Dedicado a todas as esferas de conhecimento que rodeiam o desenvolvimento tecnológico.</h3>
 
 - 📝 Estudo Sistemas de Informação na PUC-MG
